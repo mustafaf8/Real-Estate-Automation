@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmlakOtomasyon", "EmlakOtomasyon\EmlakOtomasyon.csproj", "{CEB5B007-8A9A-4A93-9ACD-0AD86B7D86EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassKutuphanesi", "..\ClassKutuphanesi\ClassKutuphanesi\ClassKutuphanesi.csproj", "{0831B160-81B3-40A9-892D-029388385522}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEB5B007-8A9A-4A93-9ACD-0AD86B7D86EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB5B007-8A9A-4A93-9ACD-0AD86B7D86EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB5B007-8A9A-4A93-9ACD-0AD86B7D86EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB5B007-8A9A-4A93-9ACD-0AD86B7D86EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0831B160-81B3-40A9-892D-029388385522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0831B160-81B3-40A9-892D-029388385522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0831B160-81B3-40A9-892D-029388385522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0831B160-81B3-40A9-892D-029388385522}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {931EC9F3-C223-4E2F-83B2-8E70A9360D57}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Emlak Son\ClassKutuphanesi\ClassKutuphanesi\bin\Debug\net8.0\ClassKutuphanesi.deps.json
+C:\Emlak Son\ClassKutuphanesi\ClassKutuphanesi\bin\Debug\net8.0\ClassKutuphanesi.dll
+C:\Emlak Son\ClassKutuphanesi\ClassKutuphanesi\bin\Debug\net8.0\ClassKutuphanesi.pdb
+C:\Emlak Son\ClassKutuphanesi\ClassKutuphanesi\obj\Debug\net8.0\ClassKutuphanesi.csproj.AssemblyReference.cache
+C:\Emlak Son\ClassKutuphanesi\ClassKutuphanesi\obj\Debug\net8.0\ClassKutuphanesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Emlak Son\ClassKutuphanesi\ClassKutuphanesi\obj\Debug\net8.0\ClassKutuphanesi.AssemblyInfoInputs.cache
+C:\Emlak Son\ClassKutuphanesi\ClassKutuphanesi\obj\Debug\net8.0\ClassKutuphanesi.AssemblyInfo.cs
+C:\Emlak Son\ClassKutuphanesi\ClassKutuphanesi\obj\Debug\net8.0\ClassKutuphanesi.csproj.CoreCompileInputs.cache
+C:\Emlak Son\ClassKutuphanesi\ClassKutuphanesi\obj\Debug\net8.0\ClassKutuphanesi.dll
+C:\Emlak Son\ClassKutuphanesi\ClassKutuphanesi\obj\Debug\net8.0\refint\ClassKutuphanesi.dll
+C:\Emlak Son\ClassKutuphanesi\ClassKutuphanesi\obj\Debug\net8.0\ClassKutuphanesi.pdb
+C:\Emlak Son\ClassKutuphanesi\ClassKutuphanesi\obj\Debug\net8.0\ref\ClassKutuphanesi.dll

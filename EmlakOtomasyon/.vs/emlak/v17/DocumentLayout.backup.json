@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Emlak Son\\EmlakOtomasyon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB5B007-8A9A-4A93-9ACD-0AD86B7D86EB}|EmlakOtomasyon\\EmlakOtomasyon.csproj|c:\\emlak son\\emlakotomasyon\\emlakotomasyon\\findregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEB5B007-8A9A-4A93-9ACD-0AD86B7D86EB}|EmlakOtomasyon\\EmlakOtomasyon.csproj|solutionrelative:emlakotomasyon\\findregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0831B160-81B3-40A9-892D-029388385522}|..\\ClassKutuphanesi\\ClassKutuphanesi\\ClassKutuphanesi.csproj|c:\\emlak son\\classkutuphanesi\\classkutuphanesi\\renthome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0831B160-81B3-40A9-892D-029388385522}|..\\ClassKutuphanesi\\ClassKutuphanesi\\ClassKutuphanesi.csproj|c:\\emlak son\\classkutuphanesi\\classkutuphanesi\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 473,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FindRegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Emlak Son\\EmlakOtomasyon\\EmlakOtomasyon\\FindRegisterForm.cs",
+              "RelativeDocumentMoniker": "EmlakOtomasyon\\FindRegisterForm.cs",
+              "ToolTip": "C:\\Emlak Son\\EmlakOtomasyon\\EmlakOtomasyon\\FindRegisterForm.cs [Design]",
+              "RelativeToolTip": "EmlakOtomasyon\\FindRegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:31:37.685Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Emlak Son\\ClassKutuphanesi\\ClassKutuphanesi\\Home.cs",
+              "RelativeDocumentMoniker": "..\\ClassKutuphanesi\\ClassKutuphanesi\\Home.cs",
+              "ToolTip": "C:\\Emlak Son\\ClassKutuphanesi\\ClassKutuphanesi\\Home.cs",
+              "RelativeToolTip": "..\\ClassKutuphanesi\\ClassKutuphanesi\\Home.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAFwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:11:22.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentHome.cs",
+              "DocumentMoniker": "C:\\Emlak Son\\ClassKutuphanesi\\ClassKutuphanesi\\RentHome.cs",
+              "RelativeDocumentMoniker": "..\\ClassKutuphanesi\\ClassKutuphanesi\\RentHome.cs",
+              "ToolTip": "C:\\Emlak Son\\ClassKutuphanesi\\ClassKutuphanesi\\RentHome.cs",
+              "RelativeToolTip": "..\\ClassKutuphanesi\\ClassKutuphanesi\\RentHome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:10:33.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
